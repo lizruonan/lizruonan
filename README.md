@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Liz Zhao. I'm a math witch 👩‍🦳🔮 taking on a journey in the AI industry 🤖.
+### About Me 👩‍🦳
+My name is Liz Zhao. I'm a math witch :') taking on a journey in the AI industry 🤖.
 
 <!--
 **lizruonan/lizruonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
